@@ -1,5 +1,5 @@
 {
-  "name": "backbone-basis-templates",
-  "version": "0.0.0",
-  "main": "./bbt.js"
+  "main": "./bbt.js", 
+  "version": "1.2.1", 
+  "name": "backbone-basis-templates"
 }
