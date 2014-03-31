@@ -9,10 +9,22 @@ The source in the `basis.js` [repo](https://github.com/basisjs/basisjs). Please 
 Install with `bower`:
 
 ```shell
-bower install `backbone-basis-templates`
+bower install bbt
 ```
 
 Add a `<script>` to your `index.html`:
+
+```html
+<script src="/bower_components/bbt/bbt.js"></script>
+```
+
+You also could use long name of library:
+
+```shell
+bower install backbone-basis-templates
+```
+
+In this case include `<script>` should be:
 
 ```html
 <script src="/bower_components/backbone-basis-templates/bbt.js"></script>
